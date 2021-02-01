@@ -1,16 +1,7 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Botbeats</h3>
 
   <p align="center">
     Smart Decision System For Digital Agriculture
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -35,8 +26,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -44,12 +33,10 @@
 
 Modern Agriculture and not only huge but even the small scale farms these days are burden to look upon considering its maintenance and daily tasks such as watering plants, sowing seeds, curing plant diseases etc. The smart decision system is an attempt to reduce this burden to some extent. The basic notion of this system is to shift dependence on large scale agriculture by giving farmers ability to cultivate their own plants with no or very less labor. The smart decision system is controlled by an Arduino and internet connected to Raspberry Pi 4. The hardware is designed to be simple, scalable and easily produced. It is specialized to care and feed water and few nutrients to each plant if needed. Other features include storing and manipulating data tables using a platform online thereby getting information like moisture content at present, type of plant disease if any, suitable temperature etc. which means with this system a person with almost negligible effort can garden his farm by just few taps on the screen of a phone or a computer to facilitate data driven design and real time control and logging in to application
 
-More details cannot be shared as patent is pending
+**More details cannot be shared as patent is pending**
 
 
 ### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 Hardware
 1)	Arduino with cable
@@ -66,7 +53,6 @@ Hardware
 12)	12V Rechargeable Battery and 5V power bank
 13)	Water Tank (A5 size)
 14)	Submersible Motor
-
 
 Software
 
