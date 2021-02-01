@@ -4,8 +4,6 @@
     Smart Decision System For Digital Agriculture
     <br />
     <br />
-    <a href="https://github.com/AmeyaUpalanchi/Botbeats">View Demo</a>
-    ·
     <a href="https://github.com/AmeyaUpalanchi/Botbeats/issues">Report Bug</a>
     ·
     <a href="https://github.com/AmeyaUpalanchi/Botbeats/issues">Request Feature</a>
